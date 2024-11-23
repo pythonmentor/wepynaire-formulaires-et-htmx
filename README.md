@@ -1,0 +1,1 @@
+# WePynaire "Comment dynamiser vos formulaires Django avec HTMX ?"
